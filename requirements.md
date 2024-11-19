@@ -1,3 +1,7 @@
+# Climate and Weather Field Compression-Error Requirements
+
+[![hackmd-github-sync-badge](https://hackmd.io/wGUkYygGSseInFjiMLslcA/badge)](https://hackmd.io/wGUkYygGSseInFjiMLslcA)
+
 ```csvpreview {header="true"}
 Field Name,Level,Unit,Distribution,Minimum value,Maximum value,Model Uncertainty,Measurement Uncertainty,L1 (absolute) error bound,L2 (RMSE) error bound,Linf (maximum) error bound,Relative error bound,Budget error bound,Additional Requirements
 Air density over the oceans,Single,,,,,,,,,,,,
